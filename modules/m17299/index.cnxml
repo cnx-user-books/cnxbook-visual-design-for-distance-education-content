@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Working within Blackboard</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c9b1a79d-6984-40b0-ad51-64b6ea6f2910</md:uuid>
+</metadata>
+  <content>
+    <section id="id-752648154315">
+      
+      <para id="id9782973">Course Menu </para>
+      <figure id="id9539391">
+        <media id="idm13170928" alt=""><image src="../../media/graphics1-9862.png" mime-type="image/png" height="274" width="168"/></media>
+      </figure>
+      <para id="id3173432">When you enter your Blackboard course you are presented with a list of links in the navigation menu on the left side of the page. Instructors can modify these links by changing the link names or eliminating unused links. The Course Menu may contain any of the following types of links: </para>
+      <para id="id10670933">Folders that hold course information such as Course Documents </para>
+      <para id="id9743361">Specific items such as a course syllabus </para>
+      <para id="id5143971">External Links which link to URL's outside of the course </para>
+      <para id="id3282424">Course Links which link to other areas within the course </para>
+      <para id="id4255938">Links to course tools, such as the Discussion Tool</para>
+      <para id="id5053967">You might be interested in reading <link url="http://twuid.pbwiki.com/Using+the+Course+Information+Menu+Item">Using the Course Information Menu</link> and </para>
+      <para id="id7405671"><link url="http://twuid.pbwiki.com/Manage+Course+Menu">Manage Course Menu</link>, resources found in TWU ID, a set of resources for TWU distance educators. </para>
+      <para id="id8285499">Content Areas via the Visual Text Box Editor</para>
+      <para id="id3911340">The Visual Text Box editor appears with a menu that looks similar to that of a Microsoft Word document when adding items, folders and discussion. You can type your text into it and format it. You can copy text and paste from plain text word processors, such as Notepad or Wordpad, and format it. You can insert tables, images, and multimedia.</para>
+      <para id="id3956330">Tip: White space is sometimes just as important as the elements that make up a web page. White space is the empty space in between the components on the page - in the margins, between columns, etc. If information is dense on a page, it can be made more readable by adding more white space. To add white space between lines in the Blackboard Visual Text Box Editor, simply hit the &lt;enter&gt; key one or two times at the end of a line.</para>
+      <para id="id10996882">Tip: You can make different sections of your text stand out by using varied background colors. You must use a table (with invisible borders) to do this. Just copy the following code, filling in the color code of your choice. An example of what the results will look like is shown directly below the code. See browser safe color chart at <link url="http://www.cookwood.com/cookwood/html4_examples/4files/colorhex/colorcharthex.html">Cookwood.com</link>. You can replace the #DDDDDD with any suitable color code from the chart.</para>
+      <para id="id4184989">&lt;table COLS=1 WIDTH="100%" bgcolor="#DDDDDD"&gt;&lt;tr&gt;&lt;td&gt;Enter text here&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt; </para>
+      <para id="id4191600">You may want to see the <link url="http://twuid.pbwiki.com/Visual+Text+Box+Editor+How+To+and+FAQ">Visual Text Box Editor How to and FAQ</link><link url="http://twuid.pbwiki.com/If+you+want+to+paste+text+from+another+application">and If you Want to Paste Text from Another Application</link> resources found in TWU ID, a set of resources for TWU distance educators.</para>
+      <para id="id7640452">Course Banner </para>
+      <para id="id8320177">A Course Banner can be used to personalize the design of your Blackboard course. There are many ways to create course banners including: Using software such as Photoshop to combine text and graphics to create an interesting course banner; Using simple banner creation sites such as <link url="http://www.3dtextmaker.com/">http://www.3dtextmaker.com</link> , <link url="http://cooltext.com/">http://cooltext.com/</link> and <link url="http://www.flamingtext.com/start.html">http://www.flamingtext.com/start.html</link> .</para>
+      <para id="id5122547">Course entry Point</para>
+      <para id="id3914055">When a user enters a Blackboard course, the first page they see is the course's “entry point”. By default this is set to be the announcements page. If you wish you may change your course's entry point to be a different menu item within your course.</para>
+      <para id="id4895394">You might be interested in reading the <link url="http://twuid.pbwiki.com/Course+Entry+Point">Course Entry Point</link> and <link url="http://twuid.pbwiki.com/Adding+a+Course+Banner">Adding a course Banner</link> resources found in TWU ID, a set of resources for TWU distance educators. Note: this will open a new window to make it easier for you to return to this course.</para>
+    </section>
+  </content>
+</document>

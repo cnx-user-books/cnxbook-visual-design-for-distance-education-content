@@ -1,0 +1,30 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Applying the concept of user-centered design to the navigation of your content</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8f37080a-a972-401b-861c-ecf78b9b27d0</md:uuid>
+</metadata>
+  <content>
+    <section id="id-385925656679">
+      <title>User Centered Design and Your Course Menu</title>
+      
+      <para id="id5260512">Have you ever become frustrated while visiting a web site because you couldn't find information that you knew must be there? Such experiences often result from site author not taking into account how the end user will actually use a site. A Web site design should be "user driven." A site must be designed in a way that anticipates what you are going to look for and how you are going to look for it. This is the essence of user-centered design.</para>
+      <para id="id5260524">Your distance education course can also be "user driven." You do provide direction to your students, but you are not physically in the course 24 hours a day to help them find their way around. You know where to find everything because you put it there, but you must remember that it's new territory for the students. You can minimize frustration for the students and the burden of multiple emails from lost students by anticipating their needs and applying the principles of user-centered design to your course.</para>
+      <para id="id4923729">Developing a User-Centered Design for Your Course Menu</para>
+      <para id="id5260538">Anticipating Needs and Expectations</para>
+      <para id="id5260543">Begin by asking yourself the following questions:</para>
+      <para id="id5260548">What tools, pages, sections, etc. will the students need to use for this course? </para>
+      <para id="id5260554">Are the most important tools linked on the course menu? </para>
+      <para id="id5260560">Are there tools currently on the menu that are infrequently used or never used? </para>
+      <para id="id5260565">When will students use which tools? Which tools will the students need to be able to access quickly from anywhere in the course? </para>
+      <para id="id5260572">These questions will help you to put yourself in the place of the student. Important links that are used frequently can be added to the top of the navigation menu. You can also remove tools or links on your menu that are infrequently used. </para>
+      <para id="id5260580">Tip - One way to organize your course menu is to insert dividers:</para>
+      <para id="id5260585">
+        <figure id="id5260589">
+          <media id="idp1492112" alt=""><image src="../../media/graphics1.jpg" mime-type="image/jpeg" height="322" width="163"/></media>
+        </figure>
+      </para>
+      <para id="id5260611">To add dividers, Click Control Panel &gt; Manage Course Menu &gt; Add Tool Area &gt; (use Announcements) &gt; Use &lt;hr&gt; for Area Name </para>
+      <para id="id5260619">You might be interested in reading <link url="http://twuid.pbwiki.com/Using+the+Course+Information+Menu+Item">Using the Course Information Menu</link> and <link url="http://twuid.pbwiki.com/Manage+Course+Menu">Manage Course Menu</link>, resources found in the Teaching Tips section of TWU ID, a set of resources for TWU distance educators. For More on the Course Menu, See Module 6.</para>
+      
+    </section>
+  </content>
+</document>

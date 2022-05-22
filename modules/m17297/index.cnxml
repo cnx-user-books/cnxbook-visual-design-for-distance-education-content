@@ -1,0 +1,63 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Using text and layout to enhance the readability of your content</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>254d7fe8-3a03-4a60-8f30-90be9d60bbd4</md:uuid>
+</metadata>
+  <content>
+    <section id="id-874986927371">
+      
+      <para id="id12064955">Type that Suits Text</para>
+      <para id="id12277615">The typefaces you choose for your course pages can enhance or detract from your objectives in communicating with your readers. The meaning or feeling of the text can be affected by the type selected. </para>
+      <para id="id3153879">To read more on how to change fonts in Blackboard, go to <link url="http://twuid.pbwiki.com/Visual+Text+Box+Editor+How+To+and+FAQ">Visual Text Box Editor (VTBE) How to and FAQ</link>. This resource will discuss some tips for using tools within the Text Box Editor when adding items and folders to Blackboard. Note: this resource will open in a new window to make it easier for you to return to this mini-course. For more on the Visual Text Box Editor see Module 6.</para>
+      <para id="id10845804">Can you see what I see?</para>
+      <para id="id9398241">What if the person reading material in your course does not have the font you chose on his or her computer? What do you think would happen? </para>
+      <para id="id8629204">A) The student's computer would automatically download the font. </para>
+      <para id="id4761864">B) Your page would display blank. </para>
+      <para id="id5877178">C) Your page would display in a font that is available on that student's machine set to be the default font. </para>
+      <para id="id13260513">Answer: The answer is C! Your page will still display, but the student's browser will display it in a font that is set to be the default font. If you are concerned about what type your pages display in, it's a good idea to use standard fonts, which are usually included with most computer font packages. Standard fonts include Times New Roman, Arial, Verdana, and others. Most computer systems include Times New Roman and Arial, those these two fonts will show close to how you type them on student computers. </para>
+      <para id="id12150568">The image below shows a few font examples. Note that some of these fonts are easier to read on the computer screen than others.</para>
+      <figure id="id4087274">
+        <media id="idm5359824" alt=""><image src="../../media/graphics1-6311.png" mime-type="image/png" height="430" width="380"/></media>
+      </figure>
+      <para id="id10688810">The image below shows the Blackboard Visual Text Box Editor. Included are the following fonts: Arial, Arial Black, Book Antiqua, Century Gothic, Comic Sans, Courier New, Garamond, Georgia, Symbol, Tahoma, Times New Roman, and Verdana. </para>
+      <para id="id12678411">
+        <figure id="id9403116">
+          <media id="idm3858592" alt=""><image src="../../media/graphics2-100c.png" mime-type="image/png" height="294" width="566"/></media>
+        </figure>
+      </para>
+      <para id="id3254102">Chunking, Scanning and Layout</para>
+      <para id="id5854343">As a Web-based course designer you use Web pages to layout your lesson content. How you present the content directly affects the user's ability to read and remember information. Two important concepts in writing for the Web are: chunking information and writing for scannability. </para>
+      <para id="id12690058">Chunking Information </para>
+      <figure id="id5614531">
+        <media id="idm1904448" alt=""><image src="../../media/graphics3.jpg" mime-type="image/jpeg" height="275" width="354"/></media>
+      </figure>
+      <para id="id12150791">While the concept of the "<link url="http://www.musanim.com/miller1956/">chunking limit</link>" with regard to a human's ability to process and remember information is not new, it has found new and practical application in writing for the Web. We know that by presenting information in small chunks, we can improve a reader's ability to read and understand it. Chunking information involves: </para>
+      <list list-type="bulleted" id="id5874872">
+        <item>writing short chunks of information (5-7 minutes)</item>
+        <item>providing transitions between the short chunks</item>
+        <item>organizing and labeling them into a hierarchy</item>
+        <item>linking all the chunks together in a meaningful unit</item>
+        <item>reinforcing the with learning activities (quizzes, video clips, discussions, self-tests)</item>
+      </list>
+      <figure id="id4938028">
+        <media id="idp6637008" alt=""><image src="../../media/graphics4.jpg" mime-type="image/jpeg" height="260" width="417"/></media>
+      </figure>
+      <para id="id11623596">Scannability </para>
+      <para id="id4036589">Countless usability studies also confirm that Web users tend not to read every word on a page, preferring instead to scan or skim short passages of text and graphics. Further, they tend to read 25% more slowly from a screen than they do from print (<link url="http://www.useit.com/jakob/webusability/">Nielsen, 2000</link>). When writing for onscreen reading: </para>
+      <list list-type="bulleted" id="id12141334">
+        <item>Keep text short.</item>
+        <item>Present one main theme per paragraph.</item>
+        <item>Use the "<link url="http://en.wikipedia.org/wiki/Inverted_pyramid">inverted pyramid</link>" style of writing, putting the main points at the top of the page.</item>
+        <item>Structure pages with headlines and subheadings.</item>
+        <item>Use bulleted lists and bold text to highlight main points.</item>
+        <item>Make use of white space to layout the text more clearly.</item>
+      </list>
+      <para id="id4972118">For more information on writing for the web, see the article <link url="http://www.elearningpost.com/articles/archives/monkey_instruction/">Monkey Instruction</link> from <link url="http://www.elearningpost.com/">elearningpost.com.</link></para>
+      <para id="id13474666">Once you have organized your content into chunks, you are ready to plan the page layout. The goal in page composition is to place content (text, headings, and graphics) in a way that is balanced, consistent, and unified, but also provides the right amount of emphasis to lead the viewer's eye effectively through the page and draw one's attention to important details. The human eye sorts information by looking for visual groupings and hierarchies. The following illustrations show how positioning information on the page in different ways affects how the reader's eye is lead through the information. By chunking information into logical categories, using headings, graphics, color, and white space, we can help readers to sort and comprehend the information we are presenting. </para>
+      <para id="id10833336">For more information and examples of writing for the web and chunking, please see the following resources:</para>
+      <para id="id4793988">Writing for the Web <link url="http://www.useit.com/papers/webwriting/">http://www.useit.com/papers/webwriting/</link></para>
+      <para id="id10360468">Writing for the Web <link url="http://www.webdesignfromscratch.com/writing_for_the_web.cfm">http://www.webdesignfromscratch.com/writing_for_the_web.cfm</link></para>
+      <para id="id4960475">Writing for the Web: Guidelines for MIT Libraries <link url="http://libstaff.mit.edu/webgroup/writing/chunking.html">http://libstaff.mit.edu/webgroup/writing/chunking.html</link></para>
+      <para id="id5050896">You might be interested in reading <link url="http://twuid.pbwiki.com/Using+Tone+to+Increase+Interaction">Using Tone to Increase Interaction</link> found on TWU ID, a set of resources for TWU distance educators. </para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,73 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Graphics and when not to use images</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6e29ccc3-69e9-4ab0-b81a-0bdc6afab6a7</md:uuid>
+</metadata>
+  <content>
+    <section id="id-661390227378">
+      <title>Graphics for Blackboard</title>
+      
+      <para id="id14222969">There are two main types of graphics you may want to use in your course: </para>
+      <para id="id14169835">1) a banner and </para>
+      <para id="id14661733">2) those that help to illustrate points in the content of your lessons.</para>
+      <para id="id14798404">Banner</para>
+      <para id="id14241073">A banner is an image that can appear on your course opening page. A banner can: </para>
+      <list list-type="bulleted" id="id14268340">
+        <item>establish identity</item>
+        <item>achieve a unified look</item>
+        <item>aid the user's ability to recognize and navigate through your site </item>
+      </list>
+      <para id="id14137601">For example, here is a sample banner created by Distance Education.</para>
+      <figure id="id14190860">
+        <media id="idp416224" alt=""><image src="../../media/graphics1-18bb.png" mime-type="image/png" height="146" width="469"/></media>
+      </figure>
+      <para id="id3299750">You may not think a visual cue such as a banner is valuable, but think what it would be like if all of our road signs looked exactly alike. From a distance you recognize immediately from both the shape and color of a sign what's coming up in the roadway. If stops, yields, and other signals were placed on signs of exactly the same shape and colors, you would not be able to determine what was required of you as quickly! Think of your course banner as a roadsign for your course. </para>
+      <para id="id14276115">Illustrative Graphics</para>
+      <para id="id14137505">The second type of graphics you will probably use in your course are illustrative. Occasionally you will find it necessary to demonstrate points both visually as well as verbally. Illustrations, graphs, maps, diagrams, and photographs are among the kinds of illustrative matter you can use to help students understand important points in your lessons. </para>
+      <para id="id14610185">When Not to Use Illustrative Graphics</para>
+      <para id="id13329105">Do not use graphics for the sole purpose of putting an image on the page. Some pages of your lesson don't need them, and your students will be confused to see an image that doesn't bear any relationship with the content (unless it's part of the design template). So, use common sense and be purposeful with your image choices. If an image is the best way to get a point across, then it's a good idea to put it in the lesson. </para>
+      <para id="id14813818">Rules of Thumb</para>
+      <para id="id14645277">When looking for illustrative graphics, be sure that you: </para>
+      <list list-type="bulleted" id="id14814377">
+        <item>Select graphics that will illustrate your points well. </item>
+        <item>Select images that are saved in file formats specifically for the Web (.gif or .jpg). </item>
+        <item>Use small versions or "thumbnails" on a lesson page and link to larger or more detailed versions on a separate page. </item>
+        <item>Obtain necessary permission to use copyrighted materials. </item>
+      </list>
+      <para id="id14288447"><link url="http://www.clarktraining.com/">Dr. Ruth Clark</link> uses empirical evidence to discuss the impact of visuals on learning in her book <link url="http://www.amazon.com/e-Learning-Science-Instruction-Guidelines-Multimedia/dp/0787986836/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1215013915&amp;sr=1-1">e-Learning and the Science of Instruction</link>. While relevant visuals can improve learning up to 90%, ineffective visuals often serve no useful instructional purpose and can actually impair learning. So, extraneous, decorative graphics should be avoided, even if the graphic is interesting to look at.</para>
+      <para id="id14224813">Two research based scenarios regarding graphics that Dr. Clark recommends do improve learning are:</para>
+      <para id="id14240704">Multimedia Principle - use words and graphics rather than words alone. Based on cognitive theory and research, including relevant, related written or spoken text and explanative graphics will promote learning. (Clark, p. 51)</para>
+      <para id="id14597888">Contiguity Principle - Place corresponding words and graphics near each other. When applying the Multimedia Principle, have as little physical separation between the text and the graphic as possible. (Clark, p. 67)</para>
+      <para id="id14822834">Where to Get Graphics</para>
+      <para id="id14198450">There are several ways to get graphics for your course. We are going to discuss: </para>
+      <list list-type="bulleted" id="id13221070">
+        <item>Making your own. </item>
+        <item>Find them in a copyright free digital collection on the Web </item>
+        <item>Creative Commons </item>
+        <item>Copyrighted images</item>
+      </list>
+      <para id="id14278792">Making Your Own Graphics</para>
+      <para id="id14218302">We all have different talents, skills, and interests. Some of you may already have experience creating graphics using design software or have used digital cameras and photo editing software to create and manipulate photographs. If so, you may be comfortable preparing graphics for your lessons. Your #1 goal should be to create a graphic of the highest quality and lowest file size possible. Use the following guidelines when creating your own graphics to accomplish this: </para>
+      <list list-type="enumerated" id="id14647564">
+        <item>Use JPEG file format for saving photographs or images with a wide range of colors. This will allow you to get the highest quality and smallest file size. </item>
+        <item>Use GIF file format for images that use just a few colors or have large areas of flat colors. For these kinds of images, GIF will be much smaller and just as high quality. </item>
+        <item>Crop unnecessary white space or borders around an image. These areas just take up space. </item>
+        <item>Save the image at the size you will use within the page. Do not specify image size in the Web page editor or HTML. Allowing the browser to resize the image will result in poor quality and longer download time. </item>
+        <item>Save images using a resolution no higher than 72 ppi. Monitors will not display resolutions any greater, so if you save at a higher resolution, you're wasting space.</item>
+      </list>
+      <para id="id14697293">Not everyone has the time or inclination to make their own graphics, please continue to find out how to use digital collections on the Web. </para>
+      <para id="id14697376">Find images in a copyright free digital collection on the Web</para>
+      <para id="id14822773">Digital image collections on the Web are becoming more commonplace and covering a wide range of subjects. Images in these collections fall into two categories: </para>
+      <list list-type="bulleted" id="id5464636">
+        <item>images in the public domain </item>
+        <item>images that are copyright protected</item>
+      </list>
+      <para id="id14260253">Images in the Public Domain</para>
+      <para id="id14813970">Images in the public domain are the easiest to work with because you don't have to worry about crediting a source or violating copyright. However, such images can be difficult to find. Please go to the Conclusion, and then Public Domain Images to access a few digital libraries that contain images in the public domain. </para>
+      <para id="id14221728">Creative Commons</para>
+      <para id="id14200838">In addition to these collections, you may find collections that other instructors or researchers in your own field have assembled and will allow you to use for teaching purposes. A common copyright license applied to such images is called <link url="http://creativecommons.org/">Creative Commons</link> (CC). The Creative Commons is a non-profit organization devoted to expanding the range of creative work available for others legally to build upon and share. It enables copyright holders to grant some of their rights to the public while retaining others through a variety of licensing and contract schemes including dedication to the public domain or open content licensing terms. The intention is to avoid the problems current copyright laws create for the sharing of information. For more information on Creative Commons and finding materials in various collections, see <link url="http://www.infinitethinking.org/2007/02/creative-commons-in-education.html">Creative Commons in Education from Infinite Thinking</link>.</para>
+      <para id="id14223239">Copyrighted Images</para>
+      <para id="id12279138">If you want to use an image that is protected by copyright, your options are to obtain permission from the copyright holder or justify use under the <link url="http://www.lib.ncsu.edu/scc/legislative/teachkit/overview.html">TEACH Act</link> or Fair Use Guidelines. If you want to use an image that is copyrighted, you must investigate whether or not it may be used by applying the guidelines set forth in the TEACH Act. It is important to become familiar with these guidelines. </para>
+      <para id="id14814063">Some images can be licensed for a fee. Most commonly you will find such images in stock photo collections, such as <link url="http://www.fotosearch.com/">Fotosearch</link>. Additionally, newspaper or periodical publishing houses will allow you to use their images for a fee. Often you must contact their rights and reproductions departments for a price quote. </para>
+    </section>
+  </content>
+</document>
